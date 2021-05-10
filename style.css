@@ -49,6 +49,11 @@ table td {
      color:#03DAC6;
      font-size:18px;
      }
+
+form {tex-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
  
 header {
   background:#FFFFFF;
