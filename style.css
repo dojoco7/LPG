@@ -16,6 +16,11 @@ img {
 
 table, th, td {
   border: 1px solid black;
+  background-color: grey;
+}
+
+th, td {
+  padding: 10px;
 }
 
 table.center {
@@ -91,10 +96,6 @@ header hover {
   font-weight:bold;
    }
 
-footer {
-    float: left;
-    color:018786;
-    font-weight:bold;
-    }
+
 
 
