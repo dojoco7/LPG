@@ -14,22 +14,8 @@ img {
     margin-right: auto;
 }
 
-table {
+table, th, td {
   border: 1px solid black;
-  border-collapse: collapse;
-}
-
-table p {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-}
-
-table td {
-  max-width:auto;
-  max-height: auto;
-  boarder: 4px solid #03dac6;
-  padding 4px 8px;
 }
 
   h1 {text-align: center;
