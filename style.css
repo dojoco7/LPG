@@ -33,20 +33,20 @@ table.center {
   h1 {text-align: center;
      margin-left: auto;
      margin-right: auto;
-     color:#BB86FC;
+     color:#000000;
 }           
 
   h2 {text-align: center;
      margin-left: auto;
      margin-right: auto;
-     color:#BB86FC}     
+     color:#000000}     
 
 
   p {text-align: center;
      margin-left: auto;
      margin-right: auto;
-     color:#03DAC6;
-     font-size:18px;
+     color:#000000;
+     font-size:14px;
      }
 
 form {text-align: center;
@@ -89,7 +89,7 @@ header nav {
   }
 
 header .highlight, header .current a {
-  color:#018786;
+  color:#000000;
   font-weight:bold;
    }
 
