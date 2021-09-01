@@ -1,7 +1,7 @@
 
   body {max-width: 1200px;
   margin: auto;
-  background: #FFFFFF;
+  background: #00008B;
   padding: 10px;
 }
  
@@ -33,20 +33,20 @@ table.center {
   h1 {text-align: center;
      margin-left: auto;
      margin-right: auto;
-     color:#000000;
+     color:#696969;
 }           
 
   h2 {text-align: center;
      margin-left: auto;
      margin-right: auto;
-     color:#000000}     
+     color:#696969}     
 
 
   p {text-align: center;
      margin-left: auto;
      margin-right: auto;
-     color:#000000;
-     font-size:14px;
+     color:#696969;
+     font-size:16px;
      }
 
 form {text-align: center;
@@ -94,7 +94,7 @@ header .highlight, header .current a {
    }
 
 header hover {
-  color:#018786;
+  color:#00008B;
   font-weight:bold;
    }
 
